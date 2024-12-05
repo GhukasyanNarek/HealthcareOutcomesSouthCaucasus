@@ -56,3 +56,16 @@ install.packages(c("ggplot2", "dplyr", "tidyr", "readr", "GGally",
                    "scales", "gganimate", "gifski", "fmsb", 
                    "RColorBrewer", "animation", "gridExtra"))
 ```
+
+### ANIMATIONS
+![health_spending](https://github.com/user-attachments/assets/324a9798-9d8e-4e15-844d-90a89f68f042)
+
+![population_change](https://github.com/user-attachments/assets/2ad8b81a-1c0a-4843-afc7-9abaf0cfcd34)
+
+![professionals_density](https://github.com/user-attachments/assets/a7c0a214-1464-4318-a36f-9ea818981875)
+
+![tobacco_obesity](https://github.com/user-attachments/assets/0eabf1a9-c344-4be3-abe5-2d147488ef35)
+
+
+
+
